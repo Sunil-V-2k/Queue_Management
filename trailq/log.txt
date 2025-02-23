@@ -1,0 +1,101 @@
+Received: ''
+Received: '{"name":"Suni","phone":"9739014528"}'
+Received: ''
+Received: ''
+Received: ''
+Received: '{"name":"poorvika","phone":"9620801453"}'
+Received: '{"name":"poorvika","phone":"9620801453"}'
+Received: '{"name":"poorvika","phone":"9620801453"}'
+Received: '{"name":"poorvika","phone":"9620801453"}'
+Received: '{"name":"poorvika","phone":"9620801453"}'
+Received: ''
+Received: '{"name":"Suni","phone":"9739014528"}'
+Received: '{"name":"Suni","phone":"9739014528"}'
+Received: '{"name":"Suni","phone":"9739014528"}'
+Received: ''
+Received: ''
+Received: ''
+Received: ''
+Received: ''
+Received: GET request
+Received: GET request
+Received: GET request
+Received: GET request
+Received: POST request
+POST Data: {"name":"Suni","phone":"9739014528"}
+Received: GET request
+Received: POST request
+POST Data: {"name":"poorvika","phone":"9620801453"}
+Received: GET request
+Received: DELETE request
+Received: GET request
+Received: POST request
+POST Data: {"name":"niranjan","phone":"9966995544"}
+Received: GET request
+Received: DELETE request
+Received: GET request
+Received: DELETE request
+Received: GET request
+Received: GET request
+Received: GET request
+Received: POST request
+POST Data: {"name":"Suni","phone":"9739014528"}
+Received: GET request
+Received: POST request
+POST Data: {"name":"poorvika","phone":"9620801453"}
+Received: GET request
+Received: POST request
+POST Data: {"name":"rakshitha","phone":"2255668899"}
+Received: GET request
+Received: DELETE request
+Received: GET request
+Received: DELETE request
+Received: GET request
+Received: DELETE request
+Received: GET request
+Received: GET request
+Received: GET request
+Received: POST request
+POST Data: {"name":"Suni","phone":"9739014528"}
+Received: GET request
+Received: GET request
+Received: GET request
+Received: POST request
+POST Data: {"name":"poorvika","phone":"9620801453"}
+Received: GET request
+Received: GET request
+Received: DELETE request
+Received: GET request
+Received: DELETE request
+Received: GET request
+Received: GET request
+Received: GET request
+Received: GET request
+Received: GET request
+Received: GET request
+Received: GET request
+Received: GET request
+Received: GET request
+Received: GET request
+Received: GET request
+Received: POST request
+POST Data: {"name":"Suni","phone":"9739014528"}
+Received: GET request
+Received: POST request
+POST Data: {"name":"Sunil V","phone":"+919739014528"}
+Received: GET request
+Received: DELETE request
+Received: GET request
+Received: DELETE request
+Received: GET request
+Received: GET request
+Received: POST request
+POST Data: {"name":"Suni","phone":"9739014528"}
+Received: GET request
+Received: POST request
+POST Data: {"name":"Sunil V","phone":"09739014528"}
+Received: GET request
+Received: DELETE request
+Received: GET request
+Received: DELETE request
+Received: GET request
