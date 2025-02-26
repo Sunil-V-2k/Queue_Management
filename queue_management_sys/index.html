@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Queue Management System</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="container">
+        <h1>📋 Queue Management System</h1>
+
+        <form id="addCustomerForm">
+            <input type="text" id="name" placeholder="Enter Name">
+            <input type="text" id="phone" placeholder="Enter Phone">
+            <input type="email" id="email" placeholder="Enter Email">
+            <button type="submit">➕ Add to Queue</button>
+        </form>
+
+        <h2>👥 Current Queue</h2>
+        <!-- <div id="loading">🔄 Loading Queue...</div> -->
+
+        <table>
+            <thead>
+                <tr>
+                    <th>Queue No.</th>
+                    <th>Name</th>
+                    <th>Phone</th>
+                    <th>Expected Time</th>
+                    <h2 id="queueCount">👥 Total Customers: 0</h2>  <!-- Live Queue Counter -->
+                    <audio id="notificationSound" src="notification.mp3" preload="auto"></audio>  <!-- Sound for new customer -->
+
+                </tr>
+            </thead>
+            <tbody id="queueTableBody"></tbody>
+        </table>
+
+        <button id="serveCustomer" class="serve-btn">✅ Serve Next Customer</button>
+
+        <div id="messageBox" class="hidden"></div>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>
